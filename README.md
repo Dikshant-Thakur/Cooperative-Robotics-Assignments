@@ -1,13 +1,5 @@
-![ME](https://github.com/user-attachments/assets/8e06d9b1-fe05-447b-b8f9-d5d646b7b401)# Cooperative Robotics Experiments
 
-
-
-
-Uploading Screen Recording 2025-03-09 091553.mp4…
-
-
-
-
+# Cooperative Robotics Experiments
 ## Overview
 This repository contains MATLAB implementations for various cooperative robotics experiments. The experiments focus on task prioritization, motion planning, and control of robotic systems, including underwater vehicles and robotic manipulators.
 
