@@ -1,4 +1,5 @@
-[Click here to watch the video](https://raw.githubusercontent.com/Dikshant-Thakur/Cooperative-Robotics-Assignments/blob/main/Screencast%20from%2003-15-2025%2011_28_04%20AM.webm)
+[Watch the video](https://raw.githubusercontent.com/Dikshant-Thakur/Cooperative-Robotics-Assignments/main/Screencast%20from%2003-15-2025%2011_28_04%20AM.webm)
+
 # Cooperative Robotics Experiments
 ## Overview
 This repository contains MATLAB implementations for various cooperative robotics experiments. The experiments focus on task prioritization, motion planning, and control of robotic systems, including underwater vehicles and robotic manipulators.
