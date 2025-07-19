@@ -1,4 +1,4 @@
-[Watch the video](https://raw.githubusercontent.com/Dikshant-Thakur/Cooperative-Robotics-Assignments/main/Screencast%20from%2003-15-2025%2011_28_04%20AM.webm)
+[![Watch the video](video-thumb.png)](https://raw.githubusercontent.com/Dikshant-Thakur/Cooperative-Robotics-Assignments/main/Screencast%20from%2003-15-2025%2011_28_04%20AM.webm)
 
 # Cooperative Robotics Experiments
 ## Overview
