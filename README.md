@@ -1,12 +1,6 @@
 ## Demo Video – Franka Robot Experiment
 
-## Demo Video – Franka Robot Experiment
-
-<video width="720" controls>
-  <source src="https://github.com/user-attachments/assets/959755c6-38cd-41a4-9a8f-cbd8ee582294" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/959755c6-38cd-41a4-9a8f-cbd8ee582294
 
 # Cooperative Robotics Experiments
 ## Overview
