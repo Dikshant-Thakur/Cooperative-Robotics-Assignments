@@ -1,4 +1,7 @@
-[![Watch the video](video-thumb.png)](https://raw.githubusercontent.com/Dikshant-Thakur/Cooperative-Robotics-Assignments/main/Screencast%20from%2003-15-2025%2011_28_04%20AM.webm)
+<video width="720" height="400" controls>
+  <source src="FrankaRobot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # Cooperative Robotics Experiments
 ## Overview
